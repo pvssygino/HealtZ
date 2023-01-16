@@ -1,3 +1,4 @@
 # HealtZ
 System care
-![My Image](icons/broom.png)
+
+![Immagine](https://user-images.githubusercontent.com/16807583/212700495-1df1d2e9-dc17-4099-a915-1abce5cd7351.png)
